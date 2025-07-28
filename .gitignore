@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+HEAD
+venv/  # Your virtual environment folder
+
+venv/
+00b3d4e8be60eb87062bfb08e1e943ad161f8ae1
+*.env
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
